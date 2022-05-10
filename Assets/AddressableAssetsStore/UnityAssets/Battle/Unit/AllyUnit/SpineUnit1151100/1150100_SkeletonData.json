@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8302033850027404168
+    },
+    "m_Name": "1150100_SkeletonData",
+    "atlasAssets": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -3934674185327399404
+        }
+    ],
+    "scale": 0.0034000000450760126,
+    "skeletonJSON": {
+        "m_FileID": 0,
+        "m_PathID": 2627193075938229192
+    },
+    "skeletonDataModifiers": [],
+    "fromAnimation": [],
+    "toAnimation": [],
+    "duration": [],
+    "defaultMix": 0.20000000298023224,
+    "controller": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

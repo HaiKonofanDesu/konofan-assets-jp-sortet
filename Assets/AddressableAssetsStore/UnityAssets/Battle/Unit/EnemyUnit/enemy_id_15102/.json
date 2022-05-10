@@ -1,0 +1,114 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -8085245498541781013
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2366043669590847779
+    },
+    "m_Name": "",
+    "m_Navigation": {
+        "m_Mode": 3,
+        "m_SelectOnUp": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_SelectOnDown": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_SelectOnLeft": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_SelectOnRight": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        }
+    },
+    "m_Transition": 1,
+    "m_Colors": {
+        "m_NormalColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "m_HighlightedColor": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272,
+            "a": 1.0
+        },
+        "m_PressedColor": {
+            "r": 0.7843137383460999,
+            "g": 0.7843137383460999,
+            "b": 0.7843137383460999,
+            "a": 1.0
+        },
+        "m_SelectedColor": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272,
+            "a": 1.0
+        },
+        "m_DisabledColor": {
+            "r": 0.7843137383460999,
+            "g": 0.7843137383460999,
+            "b": 0.7843137383460999,
+            "a": 0.501960813999176
+        },
+        "m_ColorMultiplier": 1.0,
+        "m_FadeDuration": 0.10000000149011612
+    },
+    "m_SpriteState": {
+        "m_HighlightedSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_PressedSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_SelectedSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "m_DisabledSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        }
+    },
+    "m_AnimationTriggers": {
+        "m_NormalTrigger": "Normal",
+        "m_HighlightedTrigger": "Highlighted",
+        "m_PressedTrigger": "Pressed",
+        "m_SelectedTrigger": "Highlighted",
+        "m_DisabledTrigger": "Disabled"
+    },
+    "m_Interactable": 0,
+    "m_TargetGraphic": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_FillRect": {
+        "m_FileID": 0,
+        "m_PathID": 6648141244155550948
+    },
+    "m_HandleRect": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Direction": 0,
+    "m_MinValue": 0.0,
+    "m_MaxValue": 1.0,
+    "m_WholeNumbers": 0,
+    "m_Value": 0.0,
+    "m_OnValueChanged": {
+        "m_PersistentCalls": {
+            "m_Calls": []
+        }
+    }
+}

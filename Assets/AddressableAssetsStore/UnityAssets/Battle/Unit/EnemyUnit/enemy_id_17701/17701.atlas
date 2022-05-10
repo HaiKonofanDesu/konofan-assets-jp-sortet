@@ -1,0 +1,146 @@
+
+17701.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+airbubble
+  rotate: false
+  xy: 840, 1503
+  size: 765, 485
+  orig: 765, 485
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1367
+  size: 765, 485
+  orig: 765, 485
+  offset: 0, 0
+  index: -1
+core
+  rotate: false
+  xy: 1918, 1556
+  size: 122, 115
+  orig: 122, 115
+  offset: 0, 0
+  index: -1
+corelight
+  rotate: false
+  xy: 1607, 1364
+  size: 309, 307
+  orig: 313, 307
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 769, 1016
+  size: 765, 485
+  orig: 765, 485
+  offset: 0, 0
+  index: -1
+dark_14
+  rotate: false
+  xy: 1607, 1764
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: false
+  xy: 2, 880
+  size: 765, 485
+  orig: 765, 485
+  offset: 0, 0
+  index: -1
+highlight_12
+  rotate: false
+  xy: 1607, 1735
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+option_1
+  rotate: false
+  xy: 1668, 1902
+  size: 353, 144
+  orig: 353, 144
+  offset: 0, 0
+  index: -1
+option_10
+  rotate: true
+  xy: 1607, 1911
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+option_2
+  rotate: false
+  xy: 1654, 1673
+  size: 328, 227
+  orig: 328, 227
+  offset: 0, 0
+  index: -1
+option_3
+  rotate: false
+  xy: 1918, 1352
+  size: 116, 202
+  orig: 116, 202
+  offset: 0, 0
+  index: -1
+option_4
+  rotate: true
+  xy: 2023, 2009
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+option_5
+  rotate: true
+  xy: 1607, 1790
+  size: 119, 45
+  orig: 119, 45
+  offset: 0, 0
+  index: -1
+option_6
+  rotate: true
+  xy: 1607, 1937
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+option_7
+  rotate: false
+  xy: 1760, 1174
+  size: 189, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+option_8
+  rotate: true
+  xy: 1536, 1153
+  size: 209, 222
+  orig: 209, 222
+  offset: 0, 0
+  index: -1
+option_9
+  rotate: false
+  xy: 2023, 1990
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1854
+  size: 836, 192
+  orig: 859, 198
+  offset: 12, 3
+  index: -1
+tentacle
+  rotate: false
+  xy: 840, 1990
+  size: 826, 56
+  orig: 826, 56
+  offset: 0, 0
+  index: -1

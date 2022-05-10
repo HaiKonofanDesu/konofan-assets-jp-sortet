@@ -1,0 +1,48 @@
+
+13300.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 64, 65
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 2, 78
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: false
+  xy: 37, 89
+  size: 24, 4
+  orig: 28, 4
+  offset: 2, 0
+  index: -1
+eye_1_3
+  rotate: false
+  xy: 37, 95
+  size: 24, 11
+  orig: 29, 11
+  offset: 2, 0
+  index: -1
+seed
+  rotate: true
+  xy: 2, 92
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 108
+  size: 60, 14
+  orig: 62, 14
+  offset: 1, 0
+  index: -1

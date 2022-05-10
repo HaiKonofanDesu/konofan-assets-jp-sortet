@@ -1,0 +1,160 @@
+
+18102.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beak_1_1
+  rotate: false
+  xy: 346, 470
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+beak_1_2
+  rotate: true
+  xy: 393, 465
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+beak_2_1
+  rotate: false
+  xy: 248, 475
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+beak_2_2
+  rotate: false
+  xy: 120, 480
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 79, 359
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 146, 437
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 291, 474
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 162, 479
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 433, 465
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: false
+  xy: 93, 482
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 64, 483
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+head_1_1
+  rotate: false
+  xy: 423, 392
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+head_1_2
+  rotate: false
+  xy: 2, 372
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+head_2_1
+  rotate: true
+  xy: 358, 404
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+head_2_2
+  rotate: false
+  xy: 293, 412
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+leek_1
+  rotate: false
+  xy: 188, 336
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+leek_2
+  rotate: false
+  xy: 336, 309
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: true
+  xy: 32, 485
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 2, 488
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+pattern_1
+  rotate: false
+  xy: 214, 478
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 446
+  size: 142, 32
+  orig: 147, 34
+  offset: 2, 1
+  index: -1
+wing_1
+  rotate: false
+  xy: 201, 424
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,136 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5036216294895218790
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3401856131147026245
+    },
+    "m_Name": "",
+    "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": 3360656992063573781
+    },
+    "_num": {
+        "m_FileID": 0,
+        "m_PathID": 4122605835541547971
+    },
+    "_numbers": [
+        {
+            "m_FileID": 15,
+            "m_PathID": 700039686771077783
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": 7813370727087888622
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": -2003988282334274876
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": 3214543744919954214
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": 2797362988800537623
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": -1712869342278083337
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": -2390344147134159456
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": 7885535188803458558
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": -1161834258765500866
+        },
+        {
+            "m_FileID": 15,
+            "m_PathID": -6061872028226151872
+        }
+    ],
+    "_addDamageNumbers": [
+        {
+            "m_FileID": 5,
+            "m_PathID": -2557681826500182069
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": -1769013582238243632
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": 468652996058551121
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": 8670176896920270897
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": -2851718084255828810
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": -6849378619719653818
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": -6886185676501075246
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": 54968765720094513
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": 7911824067892541825
+        },
+        {
+            "m_FileID": 5,
+            "m_PathID": -4953356658728091463
+        }
+    ],
+    "_grid": {
+        "m_FileID": 0,
+        "m_PathID": -417920735273948161
+    },
+    "_addDamageRoot": {
+        "m_FileID": 0,
+        "m_PathID": -3428920425937464886
+    },
+    "_addDamageGrid": {
+        "m_FileID": 0,
+        "m_PathID": 6268909434353075163
+    },
+    "_weak": {
+        "m_FileID": 0,
+        "m_PathID": 4331753324289882329
+    },
+    "_guard": {
+        "m_FileID": 0,
+        "m_PathID": 5038565017699503113
+    },
+    "_critical": {
+        "m_FileID": 0,
+        "m_PathID": -45641667813550230
+    },
+    "_damageUp": {
+        "m_FileID": 0,
+        "m_PathID": 4565392683937656721
+    },
+    "_damageUpByAssist": {
+        "m_FileID": 0,
+        "m_PathID": -5007049894321340177
+    }
+}

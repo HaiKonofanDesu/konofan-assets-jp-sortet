@@ -1,0 +1,95 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6843033010388629885
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3401856131147026245
+    },
+    "m_Name": "",
+    "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -5957699965057871315
+    },
+    "_num": {
+        "m_FileID": 0,
+        "m_PathID": -80003536782414424
+    },
+    "_numbers": [
+        {
+            "m_FileID": 16,
+            "m_PathID": -8696486268601274857
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": -6818775009575345421
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": -5199771741763414012
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": -4641023812405603709
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": 2329991207339986093
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": 2273340356377640978
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": 8050989519077898749
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": 4052323881914325877
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": -288137540177216210
+        },
+        {
+            "m_FileID": 16,
+            "m_PathID": 8429795206690360315
+        }
+    ],
+    "_addDamageNumbers": [],
+    "_grid": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_addDamageRoot": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_addDamageGrid": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_weak": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_guard": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_critical": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_damageUp": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_damageUpByAssist": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

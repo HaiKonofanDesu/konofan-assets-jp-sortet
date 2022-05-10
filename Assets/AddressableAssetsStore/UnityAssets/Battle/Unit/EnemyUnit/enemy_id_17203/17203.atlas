@@ -1,0 +1,272 @@
+
+17203.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_cherrybranch_1
+  rotate: false
+  xy: 535, 1287
+  size: 523, 492
+  orig: 523, 492
+  offset: 0, 0
+  index: -1
+01_cherrybranch_2
+  rotate: false
+  xy: 535, 739
+  size: 544, 527
+  orig: 545, 528
+  offset: 0, 1
+  index: -1
+01_petal_1
+  rotate: true
+  xy: 1060, 1280
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+01_petal_2
+  rotate: true
+  xy: 454, 460
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 1175, 1268
+  size: 772, 778
+  orig: 772, 778
+  offset: 0, 0
+  index: -1
+branch_1
+  rotate: false
+  xy: 1005, 66
+  size: 203, 183
+  orig: 203, 183
+  offset: 0, 0
+  index: -1
+branch_2
+  rotate: false
+  xy: 1080, 362
+  size: 335, 233
+  orig: 335, 233
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 1715, 939
+  size: 167, 76
+  orig: 167, 76
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 1005, 562
+  size: 175, 73
+  orig: 175, 73
+  offset: 0, 0
+  index: -1
+forearm_1
+  rotate: false
+  xy: 911, 2
+  size: 82, 150
+  orig: 82, 150
+  offset: 0, 0
+  index: -1
+forearm_2_1
+  rotate: true
+  xy: 1882, 1066
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+forearm_2_2
+  rotate: true
+  xy: 627, 16
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 454, 104
+  size: 133, 134
+  orig: 134, 134
+  offset: 1, 0
+  index: -1
+hand_1_2
+  rotate: true
+  xy: 1594, 1113
+  size: 153, 127
+  orig: 153, 127
+  offset: 0, 0
+  index: -1
+hand_1_3
+  rotate: false
+  xy: 761, 24
+  size: 148, 128
+  orig: 148, 128
+  offset: 0, 0
+  index: -1
+hand_2_1
+  rotate: true
+  xy: 1060, 1659
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+hand_2_2
+  rotate: false
+  xy: 1060, 1528
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+hand_2_3
+  rotate: false
+  xy: 1594, 794
+  size: 144, 125
+  orig: 144, 126
+  offset: 0, 1
+  index: -1
+leaves_1
+  rotate: true
+  xy: 2, 1207
+  size: 572, 531
+  orig: 572, 531
+  offset: 0, 0
+  index: -1
+leaves_2
+  rotate: false
+  xy: 515, 239
+  size: 488, 498
+  orig: 488, 498
+  offset: 0, 0
+  index: -1
+leaves_3
+  rotate: false
+  xy: 2, 9
+  size: 450, 519
+  orig: 450, 519
+  offset: 0, 0
+  index: -1
+leaves_4
+  rotate: true
+  xy: 2, 530
+  size: 675, 511
+  orig: 675, 511
+  offset: 0, 0
+  index: -1
+leaves_5
+  rotate: true
+  xy: 1081, 597
+  size: 669, 511
+  orig: 669, 511
+  offset: 0, 0
+  index: -1
+mouth_1_1
+  rotate: false
+  xy: 1715, 1017
+  size: 165, 94
+  orig: 165, 94
+  offset: 0, 0
+  index: -1
+mouth_1_2
+  rotate: false
+  xy: 1723, 1184
+  size: 164, 82
+  orig: 164, 82
+  offset: 0, 0
+  index: -1
+mouth_1_3
+  rotate: false
+  xy: 590, 108
+  size: 169, 129
+  orig: 169, 129
+  offset: 0, 0
+  index: -1
+root_1
+  rotate: false
+  xy: 1417, 160
+  size: 292, 212
+  orig: 292, 212
+  offset: 0, 0
+  index: -1
+root_2
+  rotate: true
+  xy: 1711, 71
+  size: 301, 159
+  orig: 301, 159
+  offset: 0, 0
+  index: -1
+root_3
+  rotate: false
+  xy: 1417, 374
+  size: 365, 221
+  orig: 365, 221
+  offset: 0, 0
+  index: -1
+root_4
+  rotate: false
+  xy: 1005, 251
+  size: 265, 109
+  orig: 265, 109
+  offset: 0, 0
+  index: -1
+root_5
+  rotate: false
+  xy: 1410, 26
+  size: 260, 132
+  orig: 260, 132
+  offset: 0, 0
+  index: -1
+root_6
+  rotate: true
+  xy: 1060, 1335
+  size: 191, 109
+  orig: 191, 109
+  offset: 0, 0
+  index: -1
+root_7
+  rotate: false
+  xy: 1210, 3
+  size: 143, 133
+  orig: 143, 133
+  offset: 0, 0
+  index: -1
+root_8
+  rotate: false
+  xy: 454, 2
+  size: 171, 100
+  orig: 171, 100
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1781
+  size: 1171, 265
+  orig: 1209, 275
+  offset: 18, 4
+  index: -1
+upperarm_1
+  rotate: false
+  xy: 761, 154
+  size: 194, 83
+  orig: 194, 83
+  offset: 0, 0
+  index: -1
+upperarm_2_1
+  rotate: true
+  xy: 1272, 138
+  size: 222, 136
+  orig: 222, 136
+  offset: 0, 0
+  index: -1
+upperarm_2_2
+  rotate: true
+  xy: 1594, 921
+  size: 190, 119
+  orig: 190, 119
+  offset: 0, 0
+  index: -1

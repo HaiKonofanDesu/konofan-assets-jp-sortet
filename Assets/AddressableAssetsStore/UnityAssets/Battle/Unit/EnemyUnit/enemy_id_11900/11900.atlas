@@ -1,0 +1,160 @@
+
+11900.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 200, 313
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 95, 323
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+ear_01
+  rotate: false
+  xy: 2, 448
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+ear_02
+  rotate: true
+  xy: 286, 478
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+foot_01_l
+  rotate: false
+  xy: 2, 492
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+foot_01_r
+  rotate: false
+  xy: 90, 489
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+foot_02_l
+  rotate: true
+  xy: 226, 483
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+foot_02_r
+  rotate: true
+  xy: 144, 486
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+hand_01_l
+  rotate: false
+  xy: 35, 491
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hand_01_r
+  rotate: false
+  xy: 72, 490
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+hand_02_l
+  rotate: false
+  xy: 52, 491
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+hand_02_r
+  rotate: false
+  xy: 123, 488
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 138, 424
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 301, 413
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 371, 413
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 321, 475
+  size: 136, 31
+  orig: 141, 33
+  offset: 2, 1
+  index: -1
+tail_01
+  rotate: false
+  xy: 208, 419
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+tail_02
+  rotate: false
+  xy: 174, 486
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+tail_03
+  rotate: false
+  xy: 52, 442
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+tail_04
+  rotate: false
+  xy: 2, 367
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+whisker_l
+  rotate: false
+  xy: 252, 479
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+whisker_r
+  rotate: false
+  xy: 459, 470
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+12800.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor_chest
+  rotate: false
+  xy: 390, 400
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+armor_shoulder_1
+  rotate: false
+  xy: 244, 409
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+belly
+  rotate: true
+  xy: 167, 371
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 380, 444
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 469, 447
+  size: 27, 4
+  orig: 27, 4
+  offset: 0, 0
+  index: -1
+eye_1_3
+  rotate: true
+  xy: 370, 443
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: true
+  xy: 469, 370
+  size: 32, 37
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 296, 405
+  size: 49, 31
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+forearm_1
+  rotate: true
+  xy: 296, 469
+  size: 41, 92
+  orig: 41, 92
+  offset: 0, 0
+  index: -1
+forearm_2
+  rotate: true
+  xy: 390, 476
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 372
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 472
+  size: 170, 38
+  orig: 176, 40
+  offset: 3, 1
+  index: -1
+shin_1
+  rotate: true
+  xy: 296, 438
+  size: 29, 72
+  orig: 29, 72
+  offset: 0, 0
+  index: -1
+shin_2
+  rotate: true
+  xy: 171, 428
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+shoulder_2
+  rotate: false
+  xy: 475, 419
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+thigh_1
+  rotate: true
+  xy: 108, 424
+  size: 22, 57
+  orig: 22, 68
+  offset: 0, 0
+  index: -1
+thigh_2
+  rotate: true
+  xy: 108, 379
+  size: 43, 55
+  orig: 46, 57
+  offset: 3, 0
+  index: -1
+upperarm_1
+  rotate: true
+  xy: 108, 448
+  size: 22, 61
+  orig: 22, 63
+  offset: 0, 2
+  index: -1
+upperarm_2
+  rotate: true
+  xy: 108, 357
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 476, 470
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 174, 462
+  size: 48, 120
+  orig: 48, 122
+  offset: 0, 2
+  index: -1
+weapon_2
+  rotate: true
+  xy: 469, 404
+  size: 13, 39
+  orig: 16, 41
+  offset: 3, 0
+  index: -1

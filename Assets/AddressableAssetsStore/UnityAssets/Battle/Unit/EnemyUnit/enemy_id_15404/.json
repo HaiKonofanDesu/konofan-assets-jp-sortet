@@ -1,0 +1,150 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3700555713387692620
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2063865531013659234
+    },
+    "m_Name": "",
+    "_hitManager": {
+        "m_FileID": 0,
+        "m_PathID": -1781485774578312762
+    },
+    "_skeletonAnimation": {
+        "m_FileID": 0,
+        "m_PathID": 8584528743211105673
+    },
+    "_effectAnimationClip": {
+        "m_FileID": 0,
+        "m_PathID": -1814638495201541789
+    },
+    "_effectAnimator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_physicalDamageDisplayController": {
+        "m_FileID": 0,
+        "m_PathID": 6439066113204477891
+    },
+    "_magicalDamageDisplayController": {
+        "m_FileID": 0,
+        "m_PathID": 7541229026748522516
+    },
+    "_universalDamageDisplayController": {
+        "m_FileID": 0,
+        "m_PathID": -142098819897733100
+    },
+    "_cureDamageDisplayController": {
+        "m_FileID": 0,
+        "m_PathID": 4597563130726262103
+    },
+    "_miss": {
+        "m_FileID": 0,
+        "m_PathID": -6918633767427164178
+    },
+    "_resist": {
+        "m_FileID": 0,
+        "m_PathID": 6785921414110501793
+    },
+    "_reflect": {
+        "m_FileID": 0,
+        "m_PathID": 7233721585091600802
+    },
+    "_charge": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_canvas": {
+        "m_FileID": 0,
+        "m_PathID": 7418678255108772362
+    },
+    "_subCanvas": {
+        "m_FileID": 0,
+        "m_PathID": 2650815329393147
+    },
+    "_effectPosions": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 685132834861285716
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -413939499159649092
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -300475758002731567
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8461852322007120940
+        }
+    ],
+    "_target": {
+        "m_FileID": 0,
+        "m_PathID": -5091772122125599644
+    },
+    "_groundCircle": {
+        "m_FileID": 0,
+        "m_PathID": 1726888457996880545
+    },
+    "_spBackEffect": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_skillEffectArray": [],
+    "_poisonEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -4488716203521775959
+    },
+    "_blindEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -1793226615988508201
+    },
+    "_bindEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -5225200086850807571
+    },
+    "_doomEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "StatusUI": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "HasTarget": 0,
+    "IsDead": 0,
+    "LockOnRate": 0,
+    "IsSealed": 0,
+    "IsBinded": 0,
+    "_dropChestList": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 217738129797026245
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7502936902738301650
+        }
+    ],
+    "_infinity": {
+        "m_FileID": 0,
+        "m_PathID": 4143121369381270360
+    },
+    "_talkBubble": {
+        "m_FileID": 0,
+        "m_PathID": -4442181018900141132
+    },
+    "_talk": {
+        "m_FileID": 0,
+        "m_PathID": -7998361169154708888
+    },
+    "EnemyStatusUI": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

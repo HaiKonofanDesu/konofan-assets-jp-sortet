@@ -1,0 +1,153 @@
+
+19800.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 16
+  size: 238, 138
+  orig: 238, 138
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: false
+  xy: 483, 88
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 2, 3
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 483, 143
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: true
+  xy: 551, 72
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: true
+  xy: 551, 25
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+foot_3
+  rotate: false
+  xy: 371, 86
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+foot_4
+  rotate: true
+  xy: 423, 88
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 142, 63
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+horn_1
+  rotate: false
+  xy: 500, 130
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+horn_2
+  rotate: false
+  xy: 235, 45
+  size: 58, 127
+  orig: 58, 127
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 142, 174
+  size: 356, 80
+  orig: 367, 84
+  offset: 5, 2
+  index: -1
+shin_1
+  rotate: true
+  xy: 367, 47
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+shin_2
+  rotate: true
+  xy: 371, 125
+  size: 47, 110
+  orig: 47, 110
+  offset: 0, 0
+  index: -1
+shin_3
+  rotate: true
+  xy: 393, 6
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+shin_4
+  rotate: true
+  xy: 316, 2
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 295, 86
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+thigh_1
+  rotate: true
+  xy: 221, 3
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+thigh_2
+  rotate: true
+  xy: 142, 10
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+thigh_3
+  rotate: true
+  xy: 447, 42
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+thigh_4
+  rotate: true
+  xy: 295, 45
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1

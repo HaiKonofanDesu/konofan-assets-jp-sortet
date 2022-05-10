@@ -1,0 +1,55 @@
+
+20100.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 140, 157
+  size: 135, 118
+  orig: 135, 118
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 174
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 77, 173
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 81, 214
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 191
+  size: 73, 23
+  orig: 76, 27
+  offset: 1, 2
+  index: -1
+eye_3
+  rotate: false
+  xy: 2, 216
+  size: 77, 26
+  orig: 77, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 244
+  size: 136, 31
+  orig: 141, 33
+  offset: 2, 1
+  index: -1

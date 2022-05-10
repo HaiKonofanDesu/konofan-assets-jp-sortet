@@ -1,0 +1,44 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -7236394823764535221
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8325734885523461692
+    },
+    "m_Name": "",
+    "_fireIndicator": {
+        "m_FileID": 0,
+        "m_PathID": 1702389737299340282
+    },
+    "_waterIndicator": {
+        "m_FileID": 0,
+        "m_PathID": 8875315322125240409
+    },
+    "_earthIndicator": {
+        "m_FileID": 0,
+        "m_PathID": -1353339903182185194
+    },
+    "_windIndicator": {
+        "m_FileID": 0,
+        "m_PathID": -7174371907219281414
+    },
+    "_thunderIndicator": {
+        "m_FileID": 0,
+        "m_PathID": 6191932418152504696
+    },
+    "_darkIndicator": {
+        "m_FileID": 0,
+        "m_PathID": 8167042070762983972
+    },
+    "_lightIndicator": {
+        "m_FileID": 0,
+        "m_PathID": -3052094507319044966
+    },
+    "_weakImg": {
+        "m_FileID": 0,
+        "m_PathID": 8586252317786560957
+    }
+}

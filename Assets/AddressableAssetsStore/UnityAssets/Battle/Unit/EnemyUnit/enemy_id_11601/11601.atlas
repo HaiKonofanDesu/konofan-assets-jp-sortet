@@ -1,0 +1,139 @@
+
+11601.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 217, 384
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 461, 478
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 461, 412
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+highlight_0
+  rotate: false
+  xy: 460, 386
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_1
+  rotate: false
+  xy: 460, 360
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_10
+  rotate: false
+  xy: 183, 403
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_11
+  rotate: false
+  xy: 96, 377
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_2
+  rotate: false
+  xy: 460, 334
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_3
+  rotate: false
+  xy: 96, 429
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_4
+  rotate: false
+  xy: 125, 429
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_5
+  rotate: false
+  xy: 154, 429
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_6
+  rotate: false
+  xy: 183, 429
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_7
+  rotate: false
+  xy: 96, 403
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_8
+  rotate: false
+  xy: 125, 403
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+highlight_9
+  rotate: false
+  xy: 154, 403
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+leaf_1_1
+  rotate: true
+  xy: 2, 363
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+leaf_1_2
+  rotate: false
+  xy: 356, 336
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+leaf_2
+  rotate: false
+  xy: 356, 432
+  size: 103, 72
+  orig: 104, 73
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 455
+  size: 213, 49
+  orig: 221, 51
+  offset: 4, 1
+  index: -1

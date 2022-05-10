@@ -1,0 +1,95 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1672017658889781238
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3401856131147026245
+    },
+    "m_Name": "",
+    "_rectTransform": {
+        "m_FileID": 0,
+        "m_PathID": -6721488703937827977
+    },
+    "_num": {
+        "m_FileID": 0,
+        "m_PathID": -1582770186998092554
+    },
+    "_numbers": [
+        {
+            "m_FileID": 7,
+            "m_PathID": 2852368364015258311
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": 6376790115904438115
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": -3643753282416139330
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": -2718851513855169999
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": 1994146483464371378
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": 6987556362239136345
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": -291415606161481954
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": -7686109824267463418
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": 1341178088750682205
+        },
+        {
+            "m_FileID": 7,
+            "m_PathID": -8954913390119555644
+        }
+    ],
+    "_addDamageNumbers": [],
+    "_grid": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_addDamageRoot": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_addDamageGrid": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_weak": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_guard": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_critical": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_damageUp": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_damageUpByAssist": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    }
+}

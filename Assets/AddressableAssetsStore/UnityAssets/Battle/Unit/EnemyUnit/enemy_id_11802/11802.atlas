@@ -1,0 +1,132 @@
+
+11802.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: true
+  xy: 479, 156
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+beerfoam_1
+  rotate: true
+  xy: 414, 392
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+beerfoam_2
+  rotate: false
+  xy: 2, 237
+  size: 337, 272
+  orig: 337, 272
+  offset: 0, 0
+  index: -1
+beerfoam_3
+  rotate: true
+  xy: 341, 336
+  size: 173, 71
+  orig: 173, 71
+  offset: 0, 0
+  index: -1
+beerfoam_4
+  rotate: false
+  xy: 371, 127
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 371, 185
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: true
+  xy: 499, 439
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+eye_1_2
+  rotate: true
+  xy: 499, 471
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1
+eye_1_3
+  rotate: true
+  xy: 495, 181
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 495, 165
+  size: 14, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 495, 149
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 414, 332
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 341, 246
+  size: 88, 58
+  orig: 88, 58
+  offset: 0, 0
+  index: -1
+mouth_1_1
+  rotate: true
+  xy: 499, 410
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+mouth_1_2
+  rotate: true
+  xy: 499, 424
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+mug_1
+  rotate: true
+  xy: 401, 220
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+mug_2
+  rotate: false
+  xy: 392, 187
+  size: 85, 31
+  orig: 85, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 341, 117
+  size: 127, 28
+  orig: 132, 30
+  offset: 2, 1
+  index: -1
