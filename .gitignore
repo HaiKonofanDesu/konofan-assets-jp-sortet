@@ -1,2 +1,5 @@
-
+!*/Battle/Unit/*.txt
+!*/Battle/Unit/*.atlas
 *.bytes
+*.txt
+*.atlas
