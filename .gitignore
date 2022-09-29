@@ -2,6 +2,6 @@
 **.txt
 **.atlas
 **.json
-!**/Battle/Unit/**.txt
-!**/Battle/Unit/**.atlas
-!**/Battle/Unit/**.json
+!**/Battle/Unit/**/*.txt
+!**/Battle/Unit/**/*.atlas
+!**/Battle/Unit/**/*.json
