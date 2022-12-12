@@ -6,35 +6,35 @@ filter: Linear,Linear
 repeat: none
 body
   rotate: false
-  xy: 2, 70
+  xy: 64, 64
   size: 56, 56
   orig: 56, 56
   offset: 0, 0
   index: -1
 eye_1
-  rotate: true
-  xy: 18, 25
+  rotate: false
+  xy: 2, 88
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 eye_1_2
   rotate: false
-  xy: 2, 2
+  xy: 2, 100
   size: 22, 4
   orig: 28, 4
   offset: 3, 0
   index: -1
 eye_1_3
-  rotate: true
-  xy: 18, 47
+  rotate: false
+  xy: 26, 93
   size: 21, 11
   orig: 28, 11
   offset: 3, 0
   index: -1
 shadow
-  rotate: true
-  xy: 2, 8
+  rotate: false
+  xy: 2, 106
   size: 60, 14
   orig: 62, 14
   offset: 1, 0
