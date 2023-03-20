@@ -40,6 +40,7 @@ Here are all Character IDs:
 - 117 - Melissa
 - 118 - Mia
 - 119 - Amy
+- 126 - Claire
 - 128 - Vanir
 - 151 - Meru
 - 169 - Lolisa
