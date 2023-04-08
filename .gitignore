@@ -5,3 +5,4 @@
 !**/Battle/Unit/**/*.txt
 !**/Battle/Unit/**/*.atlas
 !**/Battle/Unit/**/*.json
+**.py

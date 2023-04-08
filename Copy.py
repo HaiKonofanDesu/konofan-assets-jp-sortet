@@ -4,12 +4,8 @@ import os.path
 if __name__ == '__main__':
     current = os.getcwd();
     parent = os.path.dirname(current)
-    print(parent)
     source_dir = os.path.join(parent, "konofan-assets-jp-sortet", "Assets", "AddressableAssetsStore", "UnityAssets", "Common", "Images")
     destination_dir = os.path.join(current, "Assets", "AddressableAssetsStore", "UnityAssets", "Common", "Images")
-
-    print(source_dir)
-    print(destination_dir)
 
     src_dir = os.path.join(source_dir, "IconAccessory")
     dst_dir = os.path.join(destination_dir, "IconAccessory")
