@@ -70,6 +70,10 @@ Collab Character IDs:
 
 If Event ID's are needed I could make a list as well.
 
+**Wide Icons**
+
+https://github.com/HaiKonofanDesu/konofan-assets-jp-sortet/blob/main/Assets/AddressableAssetsStore/UnityAssets/Common/Images/IconMiddleMember/
+
 **Icons**
 
 https://github.com/HaiKonofanDesu/konofan-assets-jp-sortet/tree/main/Assets/AddressableAssetsStore/UnityAssets/Common/Images
