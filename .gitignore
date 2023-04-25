@@ -2,7 +2,7 @@
 **.txt
 **.atlas
 **.json
-**.idle
 !**/Battle/Unit/**/*.txt
 !**/Battle/Unit/**/*.atlas
 !**/Battle/Unit/**/*.json
+.idea/
