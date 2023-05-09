@@ -9,7 +9,6 @@ if __name__ == '__main__':
 
     src_dir = os.path.join(source_dir, "IconAccessory")
     dst_dir = os.path.join(destination_dir, "IconAccessory")
-
     shutil.copytree(src_dir, dst_dir, dirs_exist_ok=True)
 
     src_dir = os.path.join(source_dir, "IconAssist")
