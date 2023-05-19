@@ -67,6 +67,10 @@ Collab Character IDs:
 - 198 - Rudeus
 - 199 - Roxy
 - 200 - Eris
+- 205 - Subaru
+- 206 - Ram
+- 207 - Beatrice
+- 208 - Echidna
 
 If Event ID's are needed I could make a list as well.
 

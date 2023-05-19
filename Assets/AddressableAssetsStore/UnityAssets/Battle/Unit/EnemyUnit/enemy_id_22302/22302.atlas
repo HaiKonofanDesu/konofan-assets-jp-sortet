@@ -1,0 +1,97 @@
+
+22302.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_body_1
+  rotate: false
+  xy: 2, 132
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+02_ear_1
+  rotate: false
+  xy: 72, 80
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+02_ear_2
+  rotate: false
+  xy: 72, 30
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+02_eye
+  rotate: true
+  xy: 97, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+02_face
+  rotate: true
+  xy: 116, 115
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+02_foot_1
+  rotate: false
+  xy: 165, 67
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+02_foot_2
+  rotate: false
+  xy: 47, 15
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+02_foot_3
+  rotate: false
+  xy: 2, 12
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+02_foot_4
+  rotate: true
+  xy: 165, 29
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+02_hair
+  rotate: false
+  xy: 2, 60
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+02_head
+  rotate: false
+  xy: 102, 57
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+02_horn
+  rotate: false
+  xy: 97, 36
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+02_mouth
+  rotate: true
+  xy: 102, 123
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
