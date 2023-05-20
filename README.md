@@ -44,6 +44,7 @@ Here are all Character IDs:
 - 128 - Vanir
 - 151 - Meru
 - 169 - Lolisa
+- 181 - Funifura & Dodonko
 
 Collab Character IDs:
 
