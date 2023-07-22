@@ -45,6 +45,7 @@ Here are all Character IDs:
 - 151 - Meru
 - 169 - Lolisa
 - 181 - Funifura & Dodonko
+- 209 - Zesta
 
 Collab Character IDs:
 
