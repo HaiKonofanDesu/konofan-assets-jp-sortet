@@ -43,7 +43,7 @@ Here are all Character IDs:
 - 126 - Claire
 - 128 - Vanir
 - 151 - Meru
-- 169 - Lolisa
+- 169 - Lolisa (Nice)
 - 181 - Funifura & Dodonko
 - 209 - Zesta
 
@@ -98,4 +98,11 @@ Tutorial on how to use them:
 3. Rename the id.txt file to id.json
 4. Copy the .atlas, .png and .json file (from step 3)
 5. Load the 3 files into a Spine Viewer
+
+**Full Char Art**
+
+Assets\AddressableAssetsStore\UnityAssets\Battle\Sprite\CharacterImage
+
+**Skill Icons**
+Skill Icons with their Sub passives don't exist per se in the Files and need to be build manually. If needed DM me and I can try to provide them to you.
 
