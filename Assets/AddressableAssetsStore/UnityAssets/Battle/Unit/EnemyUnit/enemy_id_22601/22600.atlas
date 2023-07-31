@@ -1,0 +1,160 @@
+
+22600.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 593, 37
+  size: 413, 398
+  orig: 413, 398
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 211, 537
+  size: 232, 151
+  orig: 232, 151
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 2, 966
+  size: 40, 43
+  orig: 42, 43
+  offset: 1, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 47, 955
+  size: 53, 51
+  orig: 53, 53
+  offset: 0, 2
+  index: -1
+foot_1
+  rotate: false
+  xy: 178, 934
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 332, 933
+  size: 189, 73
+  orig: 189, 73
+  offset: 0, 0
+  index: -1
+forearm_1
+  rotate: true
+  xy: 712, 783
+  size: 112, 280
+  orig: 128, 317
+  offset: 0, 0
+  index: -1
+forearm_2
+  rotate: true
+  xy: 2, 822
+  size: 110, 209
+  orig: 110, 209
+  offset: 0, 0
+  index: -1
+hand_1_1
+  rotate: true
+  xy: 2, 545
+  size: 145, 207
+  orig: 147, 207
+  offset: 2, 0
+  index: -1
+hand_1_2
+  rotate: false
+  xy: 749, 900
+  size: 134, 106
+  orig: 134, 106
+  offset: 0, 0
+  index: -1
+hand_2_1
+  rotate: true
+  xy: 468, 650
+  size: 139, 195
+  orig: 139, 195
+  offset: 0, 0
+  index: -1
+hand_2_2
+  rotate: true
+  xy: 274, 690
+  size: 129, 192
+  orig: 129, 192
+  offset: 0, 0
+  index: -1
+hand_2_3
+  rotate: false
+  xy: 885, 897
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 445, 451
+  size: 195, 219
+  orig: 195, 230
+  offset: 0, 11
+  index: -1
+mouth
+  rotate: false
+  xy: 102, 941
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 316
+  size: 589, 133
+  orig: 608, 139
+  offset: 9, 3
+  index: -1
+shin_1
+  rotate: true
+  xy: 2, 692
+  size: 127, 270
+  orig: 127, 270
+  offset: 0, 0
+  index: -1
+shin_2
+  rotate: true
+  xy: 523, 918
+  size: 88, 224
+  orig: 88, 224
+  offset: 0, 0
+  index: -1
+thigh_1
+  rotate: true
+  xy: 481, 791
+  size: 125, 229
+  orig: 125, 229
+  offset: 0, 0
+  index: -1
+thigh_2
+  rotate: false
+  xy: 666, 437
+  size: 275, 209
+  orig: 275, 209
+  offset: 0, 0
+  index: -1
+upperarm_1
+  rotate: true
+  xy: 665, 648
+  size: 133, 307
+  orig: 133, 307
+  offset: 0, 0
+  index: -1
+upperarm_2
+  rotate: true
+  xy: 213, 821
+  size: 110, 266
+  orig: 110, 266
+  offset: 0, 0
+  index: -1
