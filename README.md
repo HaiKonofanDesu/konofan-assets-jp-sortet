@@ -73,6 +73,10 @@ Collab Character IDs:
 - 206 - Ram
 - 207 - Beatrice
 - 208 - Echidna
+- 211 - Kyon
+- 212 - Haruhi Suzumiya
+- 213 - Yuki Nagato
+- 214 - Mikuru Asahina
 
 If Event ID's are needed I could make a list as well.
 
