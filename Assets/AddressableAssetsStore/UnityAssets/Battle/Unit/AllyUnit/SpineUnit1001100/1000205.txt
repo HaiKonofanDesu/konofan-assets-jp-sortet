@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "dy8u/E3xk02K3WqX1DMJsulfKP8",
+	"hash": "4rhkupIOdXtoZkTm8JHn01rDqzE",
 	"spine": "3.8.95",
 	"x": -623.28,
 	"y": -47,
@@ -34360,8 +34360,7 @@
 					{ "time": 1, "name": "01_hand_2_1" },
 					{ "time": 2.1, "name": "01_hand_2_1" },
 					{ "time": 2.2333, "name": "01_hand_2_1" },
-					{ "time": 2.3, "name": "01_hand_win" },
-					{ "time": 3.1, "name": "01_hand_2_1" }
+					{ "time": 2.3, "name": "01_hand_win" }
 				]
 			},
 			"shadow": {
