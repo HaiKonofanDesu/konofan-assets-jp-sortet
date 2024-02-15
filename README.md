@@ -3,7 +3,7 @@ This repo contains all visual assets that exist in the japanese version of Konos
 
 ***If you have any questions join our [Discord](https://discord.gg/nSKNBH8a) (or my Streamer [Discord](https://discord.gg/WF7yEBC9fA)) and ask!***
 
-If you wanna support my work feel free to [Donate](https://streamelements.com/catzumagaming/tip), I really appreciate it! 
+If you wanna support my work feel free to [Donate](https://ko-fi.com/catzumagaming), I really appreciate it! The more Support the more I can keep everything up to date!
 
 To help you navigate this Repo here are some usefull Links:
 
