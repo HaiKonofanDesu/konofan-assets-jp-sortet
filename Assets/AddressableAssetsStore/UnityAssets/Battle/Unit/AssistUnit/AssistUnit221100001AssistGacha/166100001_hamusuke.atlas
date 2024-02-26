@@ -1,0 +1,328 @@
+
+166100001_hamusuke.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 549, 1387
+  size: 148, 115
+  orig: 148, 116
+  offset: 0, 0
+  index: -1
+arm_1_dead
+  rotate: false
+  xy: 1597, 1587
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+arm_1_dead_blur
+  rotate: true
+  xy: 1967, 1577
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+arm_1_skill1
+  rotate: true
+  xy: 549, 1504
+  size: 118, 159
+  orig: 118, 159
+  offset: 0, 0
+  index: -1
+arm_1_skill2
+  rotate: true
+  xy: 1784, 1569
+  size: 144, 181
+  orig: 144, 181
+  offset: 0, 0
+  index: -1
+arm_1_skill3
+  rotate: false
+  xy: 1246, 1499
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 971, 1485
+  size: 96, 129
+  orig: 96, 129
+  offset: 0, 0
+  index: -1
+arm_2_dead
+  rotate: false
+  xy: 1594, 1444
+  size: 180, 141
+  orig: 180, 141
+  offset: 0, 0
+  index: -1
+arm_2_dead_blur
+  rotate: true
+  xy: 1368, 1519
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+arm_2_skill2
+  rotate: true
+  xy: 372, 1483
+  size: 139, 175
+  orig: 251, 175
+  offset: 112, 0
+  index: -1
+arm_2_skill3
+  rotate: true
+  xy: 1102, 1451
+  size: 127, 135
+  orig: 127, 135
+  offset: 0, 0
+  index: -1
+arm_3_dead
+  rotate: false
+  xy: 825, 1500
+  size: 144, 121
+  orig: 144, 121
+  offset: 0, 0
+  index: -1
+arm_4_dead
+  rotate: true
+  xy: 710, 1484
+  size: 138, 113
+  orig: 138, 113
+  offset: 0, 0
+  index: -1
+arm__skill1
+  rotate: true
+  xy: 1776, 1403
+  size: 164, 175
+  orig: 164, 175
+  offset: 0, 0
+  index: -1
+beard_1
+  rotate: false
+  xy: 1803, 1715
+  size: 231, 73
+  orig: 231, 73
+  offset: 0, 0
+  index: -1
+beard_2
+  rotate: false
+  xy: 1368, 1558
+  size: 224, 80
+  orig: 224, 80
+  offset: 0, 0
+  index: -1
+beard_dead
+  rotate: false
+  xy: 1368, 1640
+  size: 227, 94
+  orig: 227, 94
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 404, 1624
+  size: 366, 392
+  orig: 366, 392
+  offset: 0, 0
+  index: -1
+body_dead
+  rotate: false
+  xy: 2, 1618
+  size: 368, 281
+  orig: 368, 281
+  offset: 0, 0
+  index: -1
+body_skill3
+  rotate: false
+  xy: 1377, 1736
+  size: 424, 310
+  orig: 424, 310
+  offset: 0, 0
+  index: -1
+crest_skill2
+  rotate: false
+  xy: 825, 1623
+  size: 280, 218
+  orig: 280, 218
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 971, 1583
+  size: 131, 38
+  orig: 131, 38
+  offset: 0, 0
+  index: -1
+eye_1_dead
+  rotate: true
+  xy: 798, 1836
+  size: 118, 25
+  orig: 118, 25
+  offset: 0, 0
+  index: -1
+eye_2_dead
+  rotate: false
+  xy: 825, 1442
+  size: 129, 56
+  orig: 130, 56
+  offset: 0, 0
+  index: -1
+eye_damage
+  rotate: true
+  xy: 372, 1707
+  size: 156, 23
+  orig: 156, 30
+  offset: 0, 3
+  index: -1
+eye_skill2
+  rotate: false
+  xy: 956, 1450
+  size: 126, 33
+  orig: 130, 37
+  offset: 2, 2
+  index: -1
+foot_1
+  rotate: false
+  xy: 1953, 1477
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: false
+  xy: 1967, 1678
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+foot_dead
+  rotate: true
+  xy: 1493, 1523
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 1493, 1474
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 1542, 1471
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+hand_skill1
+  rotate: true
+  xy: 1967, 1514
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+hand_skill2
+  rotate: true
+  xy: 1548, 1513
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1803, 1790
+  size: 256, 239
+  orig: 256, 239
+  offset: 0, 0
+  index: -1
+head_blur
+  rotate: true
+  xy: 1967, 1641
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+head_dead
+  rotate: false
+  xy: 1107, 1615
+  size: 259, 226
+  orig: 259, 226
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 1368, 1476
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+mouth_dead
+  rotate: false
+  xy: 1435, 1510
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 699, 1420
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+nose_dead
+  rotate: true
+  xy: 1953, 1373
+  size: 102, 65
+  orig: 103, 65
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1901
+  size: 400, 89
+  orig: 416, 94
+  offset: 7, 2
+  index: -1
+tail2
+  rotate: false
+  xy: 2, 1992
+  size: 825, 54
+  orig: 825, 54
+  offset: 0, 0
+  index: -1
+tail_1
+  rotate: true
+  xy: 829, 1843
+  size: 203, 546
+  orig: 203, 546
+  offset: 0, 0
+  index: -1
+tears_dead
+  rotate: false
+  xy: 1104, 1580
+  size: 140, 33
+  orig: 140, 33
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: true
+  xy: 798, 1956
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+tooth_dead
+  rotate: true
+  xy: 372, 1865
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
