@@ -1,0 +1,286 @@
+
+17900.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_1
+  rotate: false
+  xy: 250, 1947
+  size: 86, 52
+  orig: 86, 52
+  offset: 0, 0
+  index: -1
+Beard_2
+  rotate: false
+  xy: 338, 1944
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 604
+  size: 571, 420
+  orig: 571, 420
+  offset: 0, 0
+  index: -1
+cheek_1
+  rotate: false
+  xy: 1180, 1902
+  size: 258, 97
+  orig: 258, 97
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 124, 1964
+  size: 124, 35
+  orig: 124, 35
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 428, 1935
+  size: 139, 64
+  orig: 139, 64
+  offset: 0, 0
+  index: -1
+foot_1
+  rotate: true
+  xy: 2, 1440
+  size: 218, 261
+  orig: 218, 261
+  offset: 0, 0
+  index: -1
+foot_2
+  rotate: true
+  xy: 919, 1905
+  size: 94, 259
+  orig: 94, 259
+  offset: 0, 0
+  index: -1
+forearm_1_1
+  rotate: false
+  xy: 925, 1752
+  size: 222, 151
+  orig: 222, 151
+  offset: 0, 0
+  index: -1
+forearm_1_2
+  rotate: false
+  xy: 207, 1827
+  size: 161, 115
+  orig: 161, 115
+  offset: 0, 0
+  index: -1
+forearm_2_1
+  rotate: false
+  xy: 1327, 1742
+  size: 269, 153
+  orig: 270, 153
+  offset: 1, 0
+  index: -1
+forearm_2_2
+  rotate: false
+  xy: 1598, 1732
+  size: 175, 157
+  orig: 176, 157
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 699, 1909
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+hand_1_1
+  rotate: false
+  xy: 359, 1578
+  size: 286, 182
+  orig: 286, 182
+  offset: 0, 0
+  index: -1
+hand_1_2
+  rotate: true
+  xy: 880, 1544
+  size: 206, 215
+  orig: 206, 215
+  offset: 0, 0
+  index: -1
+hand_2_1
+  rotate: false
+  xy: 265, 1348
+  size: 293, 228
+  orig: 293, 228
+  offset: 0, 0
+  index: -1
+hand_2_2
+  rotate: false
+  xy: 647, 1576
+  size: 231, 184
+  orig: 231, 184
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 560, 1300
+  size: 351, 242
+  orig: 351, 242
+  offset: 0, 0
+  index: -1
+leek_1
+  rotate: false
+  xy: 1149, 1749
+  size: 176, 151
+  orig: 176, 151
+  offset: 0, 0
+  index: -1
+leek_1_2
+  rotate: false
+  xy: 171, 1660
+  size: 186, 165
+  orig: 186, 165
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 1440, 1897
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 569, 1913
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 1570, 1897
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+pot_1
+  rotate: false
+  xy: 575, 601
+  size: 958, 340
+  orig: 958, 340
+  offset: 0, 0
+  index: -1
+pot_2
+  rotate: false
+  xy: 2, 201
+  size: 882, 398
+  orig: 882, 398
+  offset: 0, 0
+  index: -1
+reaf_1_1
+  rotate: false
+  xy: 543, 1762
+  size: 380, 141
+  orig: 380, 141
+  offset: 0, 0
+  index: -1
+reaf_1_2
+  rotate: true
+  xy: 803, 1909
+  size: 90, 114
+  orig: 90, 114
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1097, 1524
+  size: 900, 204
+  orig: 930, 212
+  offset: 14, 4
+  index: -1
+steam_1
+  rotate: true
+  xy: 370, 1803
+  size: 130, 171
+  orig: 140, 177
+  offset: 10, 6
+  index: -1
+steam_2
+  rotate: true
+  xy: 1882, 1889
+  size: 110, 117
+  orig: 120, 133
+  offset: 0, 16
+  index: -1
+thigh_2
+  rotate: true
+  xy: 1775, 1730
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+upperarm_1_1
+  rotate: false
+  xy: 2, 1850
+  size: 203, 112
+  orig: 205, 112
+  offset: 2, 0
+  index: -1
+upperarm_1_2
+  rotate: false
+  xy: 2, 1690
+  size: 167, 158
+  orig: 167, 158
+  offset: 0, 0
+  index: -1
+upperarm_2_1
+  rotate: false
+  xy: 1699, 1891
+  size: 181, 108
+  orig: 181, 108
+  offset: 0, 0
+  index: -1
+water_1_1
+  rotate: false
+  xy: 913, 1250
+  size: 768, 272
+  orig: 768, 272
+  offset: 0, 0
+  index: -1
+water_1_2
+  rotate: false
+  xy: 2, 1966
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+water_1_3
+  rotate: false
+  xy: 772, 943
+  size: 769, 305
+  orig: 769, 305
+  offset: 0, 0
+  index: -1
+water_2_1
+  rotate: false
+  xy: 2, 1026
+  size: 768, 272
+  orig: 768, 272
+  offset: 0, 0
+  index: -1
+water_2_2
+  rotate: false
+  xy: 63, 1966
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+water_2_3
+  rotate: true
+  xy: 1683, 753
+  size: 769, 305
+  orig: 769, 305
+  offset: 0, 0
+  index: -1
