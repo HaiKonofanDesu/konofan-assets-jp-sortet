@@ -1,7 +1,7 @@
 # konofan-assets-jp-sortet
 This repo contains all visual assets that exist in the japanese version of Konosuba Fantastic Days!
 
-***If you have any questions join our [Discord](https://discord.gg/nSKNBH8a) (or my Streamer [Discord](https://discord.gg/WF7yEBC9fA)) and ask!***
+***If you have any questions join our [Discord](https://discord.com/invite/konosuba-fantastic-days-622563035218968637) (or my Streamer [Discord](https://discord.com/invite/XZ3PKQqx)) and ask!***
 
 If you wanna support my work feel free to [Donate](https://ko-fi.com/catzumagaming), I really appreciate it! The more Support the more I can keep everything up to date!
 
