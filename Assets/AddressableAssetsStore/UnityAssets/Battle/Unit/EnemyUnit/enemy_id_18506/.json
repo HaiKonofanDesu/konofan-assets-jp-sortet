@@ -1,0 +1,111 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -3314126759808746885
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2063865531013659234
+    },
+    "m_Name": "",
+    "_hitManager": {
+        "m_FileID": 0,
+        "m_PathID": 845520631116829034
+    },
+    "_skeletonAnimation": {
+        "m_FileID": 0,
+        "m_PathID": 8492688111860154060
+    },
+    "_effectAnimationClip": {
+        "m_FileID": 0,
+        "m_PathID": 4582012450076952002
+    },
+    "_effectAnimator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_canvas": {
+        "m_FileID": 0,
+        "m_PathID": 3353972168308441388
+    },
+    "_subCanvas": {
+        "m_FileID": 0,
+        "m_PathID": -6769168022541741141
+    },
+    "_effectPosions": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -2332868032792721440
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3198371886772420296
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -903000196949114280
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5675705575341799203
+        }
+    ],
+    "_target": {
+        "m_FileID": 0,
+        "m_PathID": 4717783872005166728
+    },
+    "_groundCircle": {
+        "m_FileID": 0,
+        "m_PathID": 4429910228597377237
+    },
+    "_skillEffectArray": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 6645524937472243580
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6776622032684805678
+        }
+    ],
+    "_poisonEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -5105161758317769696
+    },
+    "_blindEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -3698056318918568408
+    },
+    "_bindEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": -481673171513632025
+    },
+    "_doomEffectPosition": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_selfContinuationEffect": [],
+    "_motionBlendType": 1,
+    "CanvasUI": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "HasTarget": 0,
+    "IsDead": 0,
+    "LockOnRate": 0,
+    "IsSealed": 0,
+    "IsBinded": 0,
+    "IsSticky": 0,
+    "_dropChestList": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 6340706439909854871
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4381784907100278006
+        }
+    ],
+    "_hitShakeCameraValue": 0.0
+}
