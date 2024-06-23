@@ -1,0 +1,116 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -598732255518905375
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1261924317421673712
+    },
+    "m_Name": "",
+    "_damageUIPrefab": {
+        "m_FileID": 0,
+        "m_PathID": -3405390652072331389
+    },
+    "_miss": {
+        "m_FileID": 0,
+        "m_PathID": 302082441441594015
+    },
+    "_resist": {
+        "m_FileID": 0,
+        "m_PathID": 8724653186726755258
+    },
+    "_reflect": {
+        "m_FileID": 0,
+        "m_PathID": 8340868481834586765
+    },
+    "_charge": {
+        "m_FileID": 0,
+        "m_PathID": -8497518644092524122
+    },
+    "StatusUIParent": {
+        "m_FileID": 0,
+        "m_PathID": -1885262189021636061
+    },
+    "_hpBar": {
+        "m_FileID": 0,
+        "m_PathID": 1740098358873066116
+    },
+    "HpBarSpriteChange": {
+        "m_FileID": 0,
+        "m_PathID": -6554095675457982966
+    },
+    "_innerHpBar": {
+        "m_FileID": 0,
+        "m_PathID": 6250649767330015187
+    },
+    "InnerHpBarSpriteChange": {
+        "m_FileID": 0,
+        "m_PathID": -4594495577329334870
+    },
+    "_multiBossHpBar": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_infinity": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_spBar": {
+        "m_FileID": 0,
+        "m_PathID": -7368671257961279776
+    },
+    "_timerGraph": {
+        "m_FileID": 0,
+        "m_PathID": 3401361413855337891
+    },
+    "_timerWrapper": {
+        "m_FileID": 0,
+        "m_PathID": 7020676315338580816
+    },
+    "StateIconLine": {
+        "m_FileID": 0,
+        "m_PathID": 4497655420206123415
+    },
+    "IconBase": {
+        "m_FileID": 0,
+        "m_PathID": -2916398615622823371
+    },
+    "_counterIcon": {
+        "m_FileID": 0,
+        "m_PathID": -563080123906859473
+    },
+    "_talkBubble": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_talk": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_talkRectTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_mainTargetRoot": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "Ok": {
+        "m_FileID": 0,
+        "m_PathID": 4832026943171899039
+    },
+    "OkAnimation": {
+        "m_FileID": 0,
+        "m_PathID": 6727979431545559380
+    },
+    "SpLevelMaxIcon": {
+        "m_FileID": 0,
+        "m_PathID": 9115709700131145742
+    },
+    "_skillPaFameCutIn": {
+        "m_FileID": 0,
+        "m_PathID": 7908525427491510744
+    }
+}
