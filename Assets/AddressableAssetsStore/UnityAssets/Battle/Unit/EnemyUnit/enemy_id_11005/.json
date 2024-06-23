@@ -1,7 +1,7 @@
 {
     "m_GameObject": {
         "m_FileID": 0,
-        "m_PathID": 7569329842093405926
+        "m_PathID": 3006188429729089776
     },
     "m_Enabled": 1,
     "m_Script": {
@@ -19,7 +19,13 @@
         "b": 1.0,
         "a": 1.0
     },
-    "m_RaycastTarget": 1,
+    "m_RaycastTarget": 0,
+    "m_RaycastPadding": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
     "m_Maskable": 1,
     "m_OnCullStateChanged": {
         "m_PersistentCalls": {
@@ -27,8 +33,8 @@
         }
     },
     "m_Sprite": {
-        "m_FileID": 2,
-        "m_PathID": 8878422586558695442
+        "m_FileID": 4,
+        "m_PathID": 1827144267310231174
     },
     "m_Type": 0,
     "m_PreserveAspect": 0,
