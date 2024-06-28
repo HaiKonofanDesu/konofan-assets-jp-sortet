@@ -11,6 +11,7 @@
     "m_Name": "",
     "m_Navigation": {
         "m_Mode": 3,
+        "m_WrapAround": 0,
         "m_SelectOnUp": {
             "m_FileID": 0,
             "m_PathID": 0
