@@ -8,17 +8,17 @@
         "m_FileID": 0,
         "m_PathID": 8302033850027404168
     },
-    "m_Name": "11100_SkeletonData",
+    "m_Name": "1690154_SkeletonData",
     "atlasAssets": [
         {
             "m_FileID": 0,
-            "m_PathID": -3844607361360251144
+            "m_PathID": 546078268638482606
         }
     ],
     "scale": 0.0034000000450760126,
     "skeletonJSON": {
         "m_FileID": 0,
-        "m_PathID": 3392250895196929045
+        "m_PathID": -4832719862665351936
     },
     "skeletonDataModifiers": [],
     "fromAnimation": [],
