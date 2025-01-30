@@ -1,12 +1,12 @@
 {
     "m_GameObject": {
         "m_FileID": 0,
-        "m_PathID": 3627699361262936278
+        "m_PathID": 1402626797106889244
     },
     "m_Enabled": 1,
     "m_Script": {
         "m_FileID": 0,
-        "m_PathID": -7030229213176759517
+        "m_PathID": -7978266203517415465
     },
     "m_Name": "",
     "m_Material": {
@@ -20,23 +20,34 @@
         "a": 1.0
     },
     "m_RaycastTarget": 0,
-    "m_Maskable": 1,
+    "m_RaycastPadding": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_Maskable": 0,
     "m_OnCullStateChanged": {
         "m_PersistentCalls": {
             "m_Calls": []
         }
     },
-    "m_Sprite": {
-        "m_FileID": 6,
-        "m_PathID": 3300784483583615426
+    "m_FontData": {
+        "m_Font": {
+            "m_FileID": 3,
+            "m_PathID": -1443581110323071319
+        },
+        "m_FontSize": 28,
+        "m_FontStyle": 0,
+        "m_BestFit": 0,
+        "m_MinSize": 0,
+        "m_MaxSize": 50,
+        "m_Alignment": 4,
+        "m_AlignByGeometry": 0,
+        "m_RichText": 1,
+        "m_HorizontalOverflow": 1,
+        "m_VerticalOverflow": 1,
+        "m_LineSpacing": 1.0
     },
-    "m_Type": 0,
-    "m_PreserveAspect": 0,
-    "m_FillCenter": 1,
-    "m_FillMethod": 4,
-    "m_FillAmount": 1.0,
-    "m_FillClockwise": 1,
-    "m_FillOrigin": 0,
-    "m_UseSpriteMesh": 0,
-    "m_PixelsPerUnitMultiplier": 1.0
+    "m_Text": "0"
 }
