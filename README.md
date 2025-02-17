@@ -1,7 +1,7 @@
 # konofan-assets-jp-sortet
 This repo contains all visual assets that exist in the japanese version of Konosuba Fantastic Days!
 
-**[WEBSITE TO VIEW ALL ASSETS](https://konosuba-fda.netlify.app/)##
+[**WEBSITE TO VIEW ALL ASSETS**](https://konosuba-fda.netlify.app/)
 
 ***If you have any questions join our [Discord](https://discord.com/invite/konosuba-fantastic-days-622563035218968637) (or my Streamer [Discord](https://discord.com/invite/XZ3PKQqx)) and ask!***
 
